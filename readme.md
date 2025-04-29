@@ -23,6 +23,6 @@ This is a responsive landing page built for Osumare Marketing Solutions based on
 
 ## ✍️ Author
 - Developed as part of the Frontend Assignment for Osumare Marketing Solutions.
-- Done by [Your Name Here].
+- Done by Ayush Dangi
 
 ---
